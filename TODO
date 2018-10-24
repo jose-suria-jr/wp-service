@@ -1,0 +1,4 @@
+1. Remove plugins from the main branch.
+2. Remove wp_services.sql (ONLY NEEDED ONCE)
+3. Update README with instructions to install needed plugins.
+4. Update wp-config.php file with temporary DB logins.
