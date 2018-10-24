@@ -7,7 +7,7 @@ file to match port settings.
 
 <VirtualHost *:8888>
 
-    ServerAdmin Jose.Suria@lexisnexis.com
+    ServerAdmin miko.suria@gmail.com
     DocumentRoot "C:/projects/wp-service"
     ServerName wp.services
     
@@ -24,10 +24,10 @@ file to match port settings.
 
 <VirtualHost *:8999>
 
-    ServerAdmin Jose.Suria@lexisnexis.com
+    ServerAdmin miko.suria@gmail.com
     DocumentRoot "C:/projects/wp-service"
 
-    ServerName wp.services.mnljdvr102-w7d.risk.regn.net    
+    ServerName wp.services.local
     
      <Directory "C:/projects/wp-service">
         AllowOverride All
