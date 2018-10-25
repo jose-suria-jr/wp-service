@@ -2,3 +2,8 @@
 2. Remove wp_services.sql (ONLY NEEDED ONCE)
 3. Update README with instructions to install needed plugins.
 4. Update wp-config.php file with temporary DB logins.
+
+PLUGINS
+1. Mass Post Creator
+2. JSON Content Importer
+3. Ultimate Membership
